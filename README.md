@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mabidux
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java/JS/TS/C#
 - 📫 You can reach me via discord abidux#6637
 
 <!---
