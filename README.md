@@ -1,4 +1,4 @@
-## Hello, I'm abidux 😎
+## Hello, I'm Matheus Abido (AKA abidux) 😎
 
 ### Some of my skills are...
 
